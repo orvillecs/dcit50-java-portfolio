@@ -67,3 +67,22 @@ These activities involve creating a Java program that simulates a customer rewar
 - Instance methods and `this` keyword  
 - Arrays of objects  
 - Loops and conditional statements
+
+## Laboratory Activity 5: Modeling a School Management System
+
+**Description:**  
+This activity involves creating a Java program to model a simple school management system. It uses **inheritance** to represent people in the school and **aggregation** to associate teachers with the courses they handle.
+
+**Key Features:**  
+- Defines a `Person` superclass with common attributes for all people  
+- Implements `Student` and `Teacher` classes using inheritance  
+- Aggregates `Course` objects within the `Teacher` class  
+- Displays student information, teacher details, and the courses they teach  
+- Demonstrates the use of constructors, the `super` keyword, and arrays of objects  
+
+**Java Concepts Used:**  
+- Inheritance (`extends`)  
+- Aggregation (Teacher has Courses)  
+- Constructors and the `super` keyword  
+- Arrays of objects  
+- Loops and methods for displaying information  
