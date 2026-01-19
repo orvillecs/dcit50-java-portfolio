@@ -47,3 +47,23 @@ This activity focuses on applying object-oriented programming concepts by creati
 - Arrays of objects  
 - Loops and conditional statements
 
+## Laboratory Activities 3 & 4: Coffee Shop Rewards System
+
+**Description:**  
+These activities involve creating a Java program that simulates a customer rewards system for a coffee shop. Customers earn points for purchases, redeem rewards, and the program keeps track of total registered customers.
+
+**Key Features:**  
+- Defines a `Customer` class with instance variables for name and points, and static variables for total customers  
+- Implements default and parameterized constructors  
+- Uses `this` keyword to access instance variables  
+- Adds points for purchases and allows redemption of free drinks based on points  
+- Displays customer information and total number of registered customers using static methods  
+- Stores multiple `Customer` objects and calculates allowed reward redemptions  
+
+**Java Concepts Used:**  
+- Classes and objects  
+- Constructors (default and parameterized)  
+- Static variables and static methods  
+- Instance methods and `this` keyword  
+- Arrays of objects  
+- Loops and conditional statements
