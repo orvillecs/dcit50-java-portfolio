@@ -1,4 +1,4 @@
-# DCIT 50 – Java Programming Laboratory Portfolio
+# DCIT 50 – Java Programming Portfolio
 
 This repository contains a compilation of all laboratory activities and the final project completed for the subject **DCIT 50 – Java Programming**. The purpose of this portfolio is to demonstrate mastery of fundamental and advanced Java programming concepts through practical, problem-based applications.
 
